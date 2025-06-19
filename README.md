@@ -2,8 +2,6 @@
 
 A sophisticated Instagram direct messaging automation tool with a React frontend and FastAPI backend. This application uses human-like typing simulation, dynamic message generation with TinyLLama, proxy rotation, and automatic captcha solving to safely manage Instagram DM campaigns at scale.
 
-![Instagram DM Automation Dashboard](https://i.imgur.com/example.png)
-
 ## Features
 
 ### Frontend Features
